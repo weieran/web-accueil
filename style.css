@@ -1,0 +1,174 @@
+A:link { color: black;}          /* unvisited link */
+A:visited { color:blue;  }        /* visited links */
+A:active { color: red; }  
+A:hover {text-decoration:underline overline;}
+
+p {
+    font-family:garamond;
+    margin: 2 1 0 1;
+}
+
+em {
+    font-family:garamond;
+    font-size:15;
+    font-style:normal;
+    
+    margin-left:10;
+}
+.core {
+        background: url(img/adbackground.gif) repeat-x; 
+  
+}
+
+.slide_g { 
+          background: url(img/sky.jpg);
+          font-family:garamond;
+          font-size:18;
+          text-align:center;
+          
+          border-style: double;
+          border-color:black;
+          border-top: 0pt;
+          padding: 20 0 0 0;
+}
+.slide_d { 
+          background: url(img/sky.jpg);
+          font-family:garamond;
+          font-size:18;
+          font-weight:bolder;
+          text-align:center;
+          
+          
+          border-style: double;
+          border-color:black;
+          border-top: 0pt;
+          padding: 20 0 0 0;
+}
+
+.cadre_g {      
+            background-color: rgb( 180, 180, 255);
+            border-style: double ;
+            border-color:black;
+            
+            height: 18px; 
+            text-align:center;
+            
+            font-size:16;
+            font-family:arial;
+            font-weight:bolder;
+}
+
+.gtit {
+      font-size:20;
+}
+
+.gcom {
+      font-size:16;
+      font-family:garamond;
+      font-style:italic;
+}
+
+.bord {
+          margin: 0 0 0 0;
+          border-width: 3px;
+          border-style:solid;
+          border-color:black;
+}
+
+.google {
+          background: rgb(238, 255, 238) none repeat scroll 0% 40%;
+          height: 145px;
+          width: 580;
+          
+          text-align:center;
+          font-size:16;
+          font-family:garamond;
+          font-style:italic;
+
+}
+
+.wiki {
+        background: rgb(200, 216, 255) none repeat scroll 0% 40%;
+        height: 145px;
+        width: 580;
+        
+        text-align: left;
+        font-size:17;
+        
+}
+
+.ultra {
+      background: rgb(255, 255, 102) none repeat scroll 0% 40%; 
+      height: 110px;
+      width: 580;
+      
+      text-align: center;
+      font-size:17;
+}
+
+.outil{ 
+      margin: 20 0 20 0;
+      font-size:17;
+      width:1000;
+      text-align: justify;
+      padding:10 20 10 10 ;
+}
+
+.bouton_1 {
+         background: url(img/bouton.gif) no-repeat;
+         width:200;
+         height:78;
+         font-size:28;
+         font-family:garamond;
+         font-weight:bolder;
+         text-align:center;
+         line-height:2;
+
+}
+.bouton_2 {
+         background: url(img/bouton.gif) no-repeat;
+         width:200;
+         height:78;
+         font-size:28;
+         font-family:garamond;
+         font-weight:bolder;
+         text-align:center;
+         line-height:2;
+
+
+}
+
+.bouton_3 {
+         background: url(img/bouton.gif) no-repeat;
+         width:200;
+         height:78;
+         font-size:28;
+         font-family:garamond;
+         font-weight:bolder;
+         text-align:center;
+         line-height:2;
+
+}
+
+.cadre_d {
+         border: 1px solid rgb(100, 100, 100);
+         height: 8px;
+         background-color: rgb(200, 216, 255);
+         font-size: 1px;
+         margin-top:20;
+}
+
+.bar {
+      border: 1px solid rgb(100, 100, 100);
+      height: 5px;
+      margin: 0 10 10 10;
+      background-color: rgb(245, 226, 219);
+      font-size: 1px;
+      
+}
+
+.sign {
+        font-size:13;
+        
+}
+
